@@ -69,5 +69,4 @@
 </a>
 </div>
   <br/>
-  Thanks for stopping by 😁<br/>
 
