@@ -1,45 +1,32 @@
 
 <p align="center">
-  <img src="https://github.com/IrishMehta/Who-Am-I-/blob/d03f6411cc73175e5ba085ecc23dd6198b018d70/lowres.png" />
+  <img src="https://github.com/IrishMehta/Who-Am-I-/blob/db2c50dfc0643e1c6cc2f28b8fa513f84e452f25/typography.svg" />
 </p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/02194b07beb8a157917c799e19ccbde4226b0f99/icon_insta_v2.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Instagram" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/111a8276bdd2f45f896fba70381201447346e38e/linkedin.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
+
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  I'm a Data Scientist at one of India's biggest Skill-based gaming companies, Head Digital Works 
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I graduated from BITS Pilani, Goa campus in 2021, majoring in Electronics & Communications
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I developed a knack for writing scripts during my undergraduate program
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
+  💻 I started loving writing code and tried to solve real-world problems
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
@@ -83,27 +70,6 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
 <hr>
 
