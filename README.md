@@ -48,7 +48,7 @@
 <br>
 
 
-  
+<div align="center">
 <a href='https://github.com/IrishMehta/Telco_Churn_Prediction_Case_Study' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/Telecom_repo_card.svg' alt='Flutter Meetup' />
 </a>
@@ -67,7 +67,7 @@
 <a href='https://github.com/IrishMehta/Wine-Variety-Prediction' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/wine_prediction_repo_card.svg' alt='Flutter Meetup' />
 </a>
-
+</div>
   <br/>
   Thanks for stopping by 😁<br/>
 
