@@ -53,19 +53,19 @@
   <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/Telecom_repo_card.svg' alt='Flutter Meetup' />
 </a>
  <a href='https://github.com/IrishMehta/Certificates-and-Reports/blob/145cd12553be4a11263d903a69ba66ac02f9b779/Quadcopter%20Integration%20using%20BCI%20and%20Eye%20Tracking.pdf' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/qudcopter_integration_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/qudcopter_integration_repo_card.svg' alt='Pdf Report' />
 </a>
 <a href='https://github.com/IrishMehta/Movie-Recommendation-System' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/movie_rec_system_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/movie_rec_system_repo_card.svg' alt='Publication Repository' />
 </a>
 <a href='https://github.com/IrishMehta/llSPS-INT-2347-Predicting-Life-Expectancy-using-Machine-Learning' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/life_expectancy_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/life_expectancy_repo_card.svg' alt='Case Study' />
 </a>
  <a href='https://github.com/IrishMehta/Google-Stock-Price-Prediction' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/google_stock_price_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/google_stock_price_repo_card.svg' alt='Proof Of Concept Code' />
 </a>
 <a href='https://github.com/IrishMehta/Wine-Variety-Prediction' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/wine_prediction_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/Who-Am-I-/blob/4b9ce315a03bb0c33a365ebc12f13f47c36ecc47/wine_prediction_repo_card.svg' alt='EDA' />
 </a>
 </div>
   <br/>
