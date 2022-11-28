@@ -59,7 +59,7 @@
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/movie_rec_system_repo_card.svg' alt='Publication Repository' />
 </a>
 <a href='https://github.com/IrishMehta/llSPS-INT-2347-Predicting-Life-Expectancy-using-Machine-Learning' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/movie_rec_system_repo_card.svg' alt='Case Study' />
+  <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/91a7e74182fd2d50413bc829c3aa8c9f911cbf41/life_expectancy_repo_card.svg' alt='Case Study' />
 </a>
  <a href='https://github.com/IrishMehta/Google-Stock-Price-Prediction' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/google_stock_price_repo_card.svg' alt='Proof Of Concept Code' />
