@@ -6,10 +6,10 @@
 <p align="center">
   
  <a href="https://www.linkedin.com/in/irishmehta/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/111a8276bdd2f45f896fba70381201447346e38e/linkedin.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Irish's Instagram" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/111a8276bdd2f45f896fba70381201447346e38e/linkedin.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/irish_mehta/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/02194b07beb8a157917c799e19ccbde4226b0f99/icon_insta_v2.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Irish's LinkedIn" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/02194b07beb8a157917c799e19ccbde4226b0f99/icon_insta_v2.svg" /> &nbsp; &nbsp;
  </a>
 
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 <a href='https://github.com/IrishMehta/Telco_Churn_Prediction_Case_Study' target='_blank'>
-  <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/Telecom_repo_card.svg' alt='Flutter Meetup' />
+  <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/Telecom_repo_card.svg' alt='Chrun Prediction' />
 </a>
  <a href='https://github.com/IrishMehta/Certificates-and-Reports/blob/145cd12553be4a11263d903a69ba66ac02f9b779/Quadcopter%20Integration%20using%20BCI%20and%20Eye%20Tracking.pdf' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/qudcopter_integration_repo_card.svg' alt='Pdf Report' />
