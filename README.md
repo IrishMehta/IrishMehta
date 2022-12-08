@@ -53,7 +53,7 @@
 <a href='https://github.com/IrishMehta/Telco_Churn_Prediction_Case_Study' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/Telecom_repo_card.svg' alt='Chrun Prediction' />
 </a>
- <a href='https://github.com/IrishMehta/Certificates-and-Reports/blob/145cd12553be4a11263d903a69ba66ac02f9b779/Quadcopter%20Integration%20using%20BCI%20and%20Eye%20Tracking.pdf' target='_blank'>
+ <a href='https://github.com/IrishMehta/Certificates-and-Reports/blob/e2d8bab098e20803a7573b09d770e261ed76f979/Quadcopter%20Integration%20using%20BCI%20and%20Eye%20Tracking_compressed.pdf' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/qudcopter_integration_repo_card.svg' alt='Pdf Report' />
 </a>
 <a href='https://github.com/IrishMehta/Movie-Recommendation-System' target='_blank'>
