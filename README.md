@@ -6,10 +6,11 @@
 <p align="center">
   
  <a href="https://www.linkedin.com/in/irishmehta/" target="blank">
-  <img align="center" alt="Irish's Instagram" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/111a8276bdd2f45f896fba70381201447346e38e/linkedin.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Irish's Instagram" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/111a8276bdd2f45f896fba70381201447346e38e/linkedin.svg" /> 
  </a>
+  &nbsp; &nbsp;
  <a href="https://www.instagram.com/irish_mehta/" target="blank">
-  <img align="center" alt="Irish's LinkedIn" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/02194b07beb8a157917c799e19ccbde4226b0f99/icon_insta_v2.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Irish's LinkedIn" width="50px" src="https://github.com/IrishMehta/Who-Am-I-/blob/02194b07beb8a157917c799e19ccbde4226b0f99/icon_insta_v2.svg" /> 
  </a>
 
 
