@@ -25,9 +25,7 @@
   <br>
   🎓 I graduated from BITS Pilani, Goa campus in 2021, majoring in Electronics & Communications
   <br>
-  💻  I started my journey in ML after completing thr course on Machine Learning by Professor Andrew Ng 
-  <br>
-  💻  Over last 4 years, I have worked on the entire horizon of Data Science and I'm shifting to high-speed machine learning use-cases! 
+  💻  Over last 4 years, I have worked on industry oriented projects within data science and machine learning! 
   <br>
   📫 I would love to talk tech at: <a href="mailto: irish.mehta@gmail.com">irish.mehta@gmail.com</a>
 </p>
