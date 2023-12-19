@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  I'm a Data Scientist working behind one of India's biggest Skill-based gaming application, A23 Rummy 
+  I'm a Data Scientist working behind one of the world biggest Supply Chain Management Services firm, o9 Solutions 
   <br>
   🎓 I graduated from BITS Pilani, Goa campus in 2021, majoring in Electronics & Communications
   <br>
