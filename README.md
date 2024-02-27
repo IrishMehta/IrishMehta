@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  I'm a Data Scientist working behind one of the world biggest Supply Chain Management Services firm, o9 Solutions 
+  I'm a Data Scientist working at one of the world's biggest Supply Chain Management Services firm, o9 Solutions 
   <br>
   🎓 I graduated from BITS Pilani, Goa campus in 2021, majoring in Electronics & Communications
   <br>
