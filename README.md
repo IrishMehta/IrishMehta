@@ -21,14 +21,15 @@
 
 <br>
 <p align="center">
-  I'm a Data Scientist working at one of the world's biggest Supply Chain Management Services firm, o9 Solutions 
-  <br>
-  🎓 I graduated from BITS Pilani, Goa campus in 2021, majoring in Electronics & Communications
-  <br>
-  💻  Over last 4 years, I have worked on industry oriented projects within data science and machine learning! 
-  <br>
-  📫 I would love to talk tech at: <a href="mailto: irish.mehta@gmail.com">irish.mehta@gmail.com</a>
-</p>
+<p><strong>🎓 Master's in Computer Science Student @ Arizona State University</strong> – Expanding expertise in advanced data science and machine learning.</p>
+
+<p><strong>💼 Data Scientist @ o9 Solutions</strong> – Solved challenges in product clustering, size profiling, and assortment planning using data science.</p>
+
+<p><strong>💼 Data Scientist @ A23 Rummy</strong> – Applied machine learning to enhance user experience and simplify gaming interactions.</p>
+
+<p><strong>🎓 B.E. Electronics & Communications @ BITS Pilani, Goa Campus</strong> (2021) – Built a strong foundation in technology before transitioning to data science.</p>
+
+<p>📫 Let's connect: <a href="mailto:irish.mehta@gmail.com">irish.mehta@gmail.com</a></p>
 
 <hr>
 <h2 align="center"> Languages, Frameworks & Tools </h2>
@@ -37,17 +38,17 @@
 
   <p align="center"><img src="https://skillicons.dev/icons?i=py,c,cpp,linux,matlab,octave,mysql"></p>
   <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,selenium,heroku"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=git,vscode,latex"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sqlite"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=ps,ai">
+  <p align="center"><img src="https://skillicons.dev/icons?i=git,vscode,latex,docker"></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sqlite,sklearn"></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr">
 <hr>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+<be>
 
 
-<div align="center">
+<!-- <div align="center">
 <a href='https://github.com/IrishMehta/Telco_Churn_Prediction_Case_Study' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/Telecom_repo_card.svg' alt='Chrun Prediction' />
 </a>
@@ -65,7 +66,7 @@
 </a>
 <a href='https://github.com/IrishMehta/Wine-Variety-Prediction' target='_blank'>
   <img width='33%' src='https://github.com/IrishMehta/IrishMehta/blob/bfd285e8806fc480dcf4bb39543bf05551f35538/wine_prediction_repo_card.svg' alt='EDA' />
-</a>
+</a> 
 </div>
-  <br/>
+  <br/> -->
 
