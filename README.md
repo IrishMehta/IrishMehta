@@ -44,8 +44,8 @@
 <hr>
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<be>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<be> -->
 
 
 <!-- <div align="center">
