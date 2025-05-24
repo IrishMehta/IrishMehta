@@ -21,13 +21,13 @@
 
 <br>
 <p align="center">
-<p><strong>🎓 Master's in Computer Science Student @ Arizona State University</strong> – Expanding expertise in advanced data science and machine learning.</p>
+<p><strong>🎓 Master's in Computer Science @ Arizona State University</strong> – Expanding expertise in advanced data science and machine learning.</p>
 
-<p><strong>💼 Data Scientist @ o9 Solutions</strong> – Solved challenges in product clustering, size profiling, and assortment planning using data science.</p>
+<p><strong>💼 Data Scientist/MLE @ o9 Solutions</strong> – Solved challenges in product clustering, size profiling, and assortment planning using data science.</p>
 
-<p><strong>💼 Data Scientist @ A23 Rummy</strong> – Applied machine learning to enhance user experience and simplify gaming interactions.</p>
+<p><strong>💼 Data Scientist/MLE @ A23 Rummy</strong> – Applied machine learning to enhance user experience and simplify gaming interactions.</p>
 
-<p><strong>🎓 B.E. Electronics & Communications @ BITS Pilani, Goa Campus</strong> (2021) – Built a strong foundation in technology before transitioning to data science.</p>
+<p><strong>🎓 B.E. Electronics & Communications @ BITS Pilani</strong> (2021) – Built a strong foundation in technology before transitioning to data science.</p>
 
 <p>📫 Let's connect: <a href="mailto:irish.mehta@gmail.com">irish.mehta@gmail.com</a></p>
 
