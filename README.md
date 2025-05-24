@@ -27,7 +27,7 @@
 
 <p><strong>💼 Data Scientist/MLE @ A23 Rummy</strong> – Applied machine learning to enhance user experience and simplify gaming interactions.</p>
 
-<p><strong>🎓 B.E. Electronics & Communications @ BITS Pilani</strong> (2021) – Built a strong foundation in technology before transitioning to data science.</p>
+<p><strong>🎓 Bachelor in Electronics & Communication Engineering @ BITS Pilani</strong> – Built a strong foundation in technology before transitioning to data science.</p>
 
 <p>📫 Let's connect: <a href="mailto:irish.mehta@gmail.com">irish.mehta@gmail.com</a></p>
 
