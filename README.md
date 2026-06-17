@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/IrishMehta/IrishMehta/blob/b838310af1a17f6615a48c7cf5931b283d8ba26c/typography_v2.svg" />
+  <img src="https://github.com/IrishMehta/IrishMehta/blob/master/Irish_github_banner.png" />
 </p>
 
 <p align="center">
@@ -21,26 +21,59 @@
 
 <br>
 <p align="center">
-<p><strong>🎓 Master's in Computer Science @ Arizona State University</strong> – Expanding expertise in advanced data science and machine learning.</p>
+  <strong>Hi, I'm Irish Mehta 👋</strong><br>
+  Machine Learning Engineer / Data Scientist focused on production ML systems, applied AI, and research-driven engineering.
+</p>
 
-<p><strong>💼 Data Scientist/MLE @ o9 Solutions</strong> – Solved challenges in product clustering, size profiling, and assortment planning using data science.</p>
+<p><strong>🎓 MS in Computer Science @ Arizona State University</strong> – Focused on machine learning, generative AI, data systems, computer vision, and large-scale ML workflows.</p>
 
-<p><strong>💼 Data Scientist/MLE @ A23 Rummy</strong> – Applied machine learning to enhance user experience and simplify gaming interactions.</p>
+<p><strong>🔬 Research @ ASU Kerner Lab</strong> – Worked on large-scale computer vision for Mars imagery, including benchmarking classification and segmentation models across orbital and rover datasets.</p>
 
-<p><strong>🎓 Bachelor in Electronics & Communication Engineering @ BITS Pilani</strong> – Built a strong foundation in technology before transitioning to data science.</p>
+<p><strong>🧠 Data Scientist @ ASU Decision Theater</strong> – Built scalable NLP/topic-modeling and semantic search pipelines over large document collections using BERTopic, LLM labeling, FAISS, and HPC workflows.</p>
 
-<p>📫 Let's connect: <a href="mailto:irish.mehta@gmail.com">irish.mehta@gmail.com</a></p>
+<p><strong>💼 Machine Learning Engineer / Data Scientist @ o9 Solutions</strong> – Built clustering, forecasting, and supply-chain analytics modules for inventory optimization and enterprise planning workflows.</p>
+
+<p><strong>💼 Machine Learning Engineer / Data Scientist @ A23 / Head Digital Works</strong> – Shipped real-time ML inference systems, retention models, segmentation pipelines, and gameplay optimization features impacting millions of users.</p>
+
+<p><strong>🎓 BE in Electronics & Communication Engineering @ BITS Pilani</strong> – Built a strong engineering foundation before moving deeper into data science, ML systems, and applied AI.</p>
+
+<p>📫 Let's connect: 
+  <a href="mailto:ihmehta@asu.edu">ihmehta@asu.edu</a> |
+  <a href="https://irishmehta.github.io/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/irishmehta/">LinkedIn</a>
+</p>
 
 <hr>
-<h2 align="center"> Languages, Frameworks & Tools </h2>
+
+<hr>
+
+<h2 align="center">Languages, Frameworks & Tools</h2>
 <br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,bash,linux" />
+</p>
 
-  <p align="center"><img src="https://skillicons.dev/icons?i=py,c,cpp,linux,matlab,octave,mysql"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,selenium,heroku"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=git,vscode,latex,docker"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sqlite,sklearn"></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,nodejs,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,dynamodb,mongodb,redis,latex,vscode" />
+</p>
+
+<p align="center">
+  <strong>Also working with:</strong> LangChain, RAG, FAISS, Snowflake, Spark/PySpark, MLflow, Weights & Biases, NumPy, Pandas, Jupyter, SLURM, REST APIs, Vector Search
+</p>
+
 <hr>
 
 
